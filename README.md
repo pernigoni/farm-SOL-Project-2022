@@ -1,4 +1,4 @@
-# Progetto SOL a.a. 2022/2023 - farm
+# Progetto SOL UniPi a.a. 2022/2023 - farm
 ## Possibili problemi e miglioramenti
 - Cosa succede con un file che contiene meno di 8 byte?
 - I file regolari potevano essere inseriti direttamente nella coda concorrente invece che farli passare da liste.
