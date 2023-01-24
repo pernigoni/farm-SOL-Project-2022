@@ -1,0 +1,42 @@
+Produttore  : 590
+Consumatore : 590
+Produttore  : 733
+Consumatore : 733
+Produttore  : 194
+Consumatore : 194
+Produttore  : 916
+Consumatore : 916
+Produttore  : 301
+Consumatore : 301
+Produttore  : 261
+Consumatore : 261
+Produttore  : 58
+Consumatore : 58
+Produttore  : 14
+Consumatore : 14
+Produttore  : 586
+Consumatore : 586
+Produttore  : 766
+Consumatore : 766
+Produttore  : 611
+Consumatore : 611
+Produttore  : 719
+Consumatore : 719
+Produttore  : 887
+Consumatore : 887
+Produttore  : 563
+Consumatore : 563
+Produttore  : 376
+Consumatore : 376
+Produttore  : 190
+Consumatore : 190
+Produttore  : 587
+Consumatore : 587
+Produttore  : 3
+Consumatore : 3
+Produttore  : 832
+Consumatore : 832
+Produttore  : 935
+-----------------------------------------
+Thread Produttore terminato con status  0
+Thread Consumatore terminato con status 0
