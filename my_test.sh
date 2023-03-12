@@ -31,7 +31,7 @@ wait $pid
 # Esecuzione con argomenti di default.
 #
 echo "${YELLOW}${BOLD}=== TEST DEFAULT ===${RESET}"
-./bin/farm -d my_testdir
+./bin/farm -d .
 
 #
 # Esecuzione con valgrind.
